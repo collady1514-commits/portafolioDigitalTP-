@@ -181,12 +181,26 @@ En clase usamos **C** que es un lenguaje **compilado**
 
 ### 🔹 Programación por Bloques
 
-Es un paradigma **visual** donde se arrastran bloques 
-gráficos para construir programas sin escribir código. 
-La herramienta que vimos fue la plataforma de 
-**Code.org** con sus rompecabezas y laberintos. Me 
-ayudó a entender la lógica secuencial de una forma 
-muy divertida e intuitiva.
+**### 🧩 Programación por Bloques
+
+Es un paradigma **visual** donde se construyen programas 
+arrastrando y conectando bloques gráficos, sin necesidad 
+de escribir código. Me ayudó a entender la lógica 
+secuencial de una forma muy divertida.
+
+**Herramienta usada en clase:** Code.org
+
+**Actividades que realicé:**
+
+| Actividad | ¿En qué consistía? |
+|-----------|-------------------|
+| 🧩 **Rompecabezas** | Ordenar bloques en el orden correcto para completar el desafío |
+| 🏃 **Laberinto** | Dar instrucciones de movimiento para guiar un personaje hasta la meta |
+
+> 💡 **Lo que aprendí:** Aunque no escribí ni una 
+> línea de código, estaba aplicando exactamente 
+> la misma lógica que usamos en PSeInt — pasos 
+> ordenados, uno tras otro, en secuencia.
 
 ---
 
