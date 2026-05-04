@@ -2,12 +2,13 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/0ff8a6e2-146c-4c1c-b3de-28ddce8a544c" 
   " width="250" style="border-radius:50%;">
-<center>
+<center> 
+<dive>
 
 # **UNIVERSIDAD NACIONAL DE LOJA**
 ## FACULTAD DE LA ENERGÍA, LAS INDUSTRIAS Y LOS RECURSOS NATURALES NO RENOVABLES
 ## CARRERA DE COMPUTACIÓN
-## ASIGNARURA
+## ASIGNATURA
 ### Teoria de la programación
 ## UNIDAD
 ### Aprendizaje Autónomo Actividad Nro. 1
@@ -21,13 +22,13 @@
 ### Lunes, 4 de mayo de 2026
 ---
 </div>
-<div style="page-break-after: always;"></div>
+
 
 # Unidad 1
 
 ---
 
-## 📚 Unidad 1 — Fundamentos de Algoritmos y Programación
+##  — Fundamentos de Algoritmos y Programación
 
 ---
 
@@ -181,8 +182,6 @@ En clase usamos **C** que es un lenguaje **compilado**
 
 ### 🔹 Programación por Bloques
 
-**### 🧩 Programación por Bloques
-
 Es un paradigma **visual** donde se construyen programas 
 arrastrando y conectando bloques gráficos, sin necesidad 
 de escribir código. Me ayudó a entender la lógica 
@@ -306,7 +305,60 @@ Sé que aún me falta practicar las máscaras de
 formato y los tipos de datos, pero cada error 
 que cometo me ayuda a aprender mejor. 
 
-----
+---
+
+##  Declaración de Uso de IA Generativa
+
+**Herramienta utilizada:** Claude (Anthropic) — claude.ai
+
+Durante la elaboración de este portafolio utilicé 
+inteligencia artificial como tutor de acompañamiento. 
+
+La IA me ayudó en los siguientes aspectos:
+
+- Me enseñó los códigos de **Markdown** para dar 
+  formato a mi portafolio, como usar `#` para títulos, 
+  `**texto**` para negrita, cómo hacer tablas y 
+  cómo insertar imágenes con `<img src="">`.
+
+- Me **guió en la estructura** del portafolio para 
+  que cumpla con lo que pide la actividad.
+
+- Me ayudó con la **redacción** de los contenidos 
+  teóricos, aunque siempre con mis propias ideas 
+  y lo que entendí en clase.
+
+---
+
+##  Bibliografía
+
+[1] M. M. Arteaga Martínez, *Lógica de programación 
+con Pseint. Enfoque práctico*, 1.ª ed. Fondo Editorial 
+Remington, 2023. [En línea]. Disponible en: 
+https://research.ebsco.com/linkprocessor/plink?id=0c1115b8-e552-38e4-bc75-bf84bbdd293f
+
+[2] I. Tarsini y R. Anggraeni, "Explore flowchart and 
+pseudocode concepts in algorithms and programming," 
+*Indonesian Journal of Multidisciplinary Science*, 
+vol. 3, núm. 5, 2024. Disponible en: 
+https://doi.org/10.55324/ijoms.v3i5.807
+
+[3] J. E. Guerra Salazar, M. V. Ramos Valencia y 
+G. E. Vallejo Vallejo, *Programando en C desde la 
+práctica problemas resueltos*. Puerto Madero 
+Editorial, 2023. Disponible en: 
+https://dialnet.unirioja.es/servlet/libro?codigo=933288
+
+[4] A. A. Bhuiyan y M. Amiruzzaman, *Programming 
+with Java*, 2.ª ed. PA-ADOPT, 2025. Disponible en: 
+https://open.umn.edu/opentextbooks/textbooks/programming-with-java
+
+[5] J. M. Toro Bonilla, *Fundamentos de programación: 
+Python*, 2.ª ed. Editorial Universidad de Sevilla, 
+2023. Disponible en: 
+https://dialnet.unirioja.es/servlet/libro?codigo=871117
+
+---
 
 ## Unidad 2
 ## Unidad 3
