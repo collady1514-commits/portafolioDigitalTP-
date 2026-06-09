@@ -29,7 +29,7 @@
 
 |         🏠 Inicio        |          📘 Unidad 1          |          📗 Unidad 2          |          📙 Unidad 3          |          📂 Conclusiones          |          📚 Bibliografía          |         🤖 Uso de IA        |      🧠 Reflexión crítica      |
 | :----------------------: | :---------------------------: | :---------------------------: | :---------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------: | :----------------------------: |
-| [Ir](index.md) | [Abir](Unidad1.md) | [Abrir](Unidad2.md)| [Abrir](Unidad3.md) | [Abrir](Conclusiones-generales.md)| [Abrir](Bibliografias.md)| [Abrir](Uso-de-la-IA.md) | [Abrir](README.md) |
+| [Ir](index.md) | [Abir](Unidad1.md) | [Abrir](Unidad2.md)| [Abrir](Unidad3.md) | [Abrir](Conclusiones-generales.md)| [Abrir](Bibliografias.md)| [Abrir](Uso-de-la-IA.md) | [Abrir](Reflexión_critica.md) |
 
 </div>
 
