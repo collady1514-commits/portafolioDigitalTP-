@@ -1,3 +1,5 @@
+[REGRESAR](inicio.md)
+
 ##  Bibliografía
 
 [1] M. M. Arteaga Martínez, *Lógica de programación 
