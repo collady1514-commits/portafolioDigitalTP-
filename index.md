@@ -23,8 +23,17 @@
 ---
 </div>
 
+<div align="center">
 
-# Unidad 1
+# 🎓 PORTAFOLIO DIGITAL DE APRENDIZAJE
+
+| 🏠 Inicio | 📘 Unidad 1 | 📗 Unidad 2 | 📙 Unidad 3 | 📂 Evidencias | 📚 Bibliografía | 🤖 Uso de IA |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| <a href="#inicio">Ir</a> | <a href="#unidad-1">Abrir</a> | <a href="#unidad-2">Abrir</a> | <a href="#unidad-3">Abrir</a> | <a href="#evidencias">Abrir</a> | <a href="#bibliografia">Abrir</a> | <a href="#ia">Abrir</a> |
+
+</div>
+
+---
 
 ---
 
