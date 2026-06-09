@@ -1,11 +1,11 @@
 [REGRESAR](inicio.md)
+</div>
 
-<a id="Bibliografía"></a>
 
 <div align="center">
-
-<h1>📗 Bibliografía </h1>
-
+<h1>📗Bibliografía</h1>
+<h2>Unidad 1</h2>
+</div>
 
 [1] M. M. Arteaga Martínez, *Lógica de programación 
 con Pseint. Enfoque práctico*, 1.ª ed. Fondo Editorial 
