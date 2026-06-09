@@ -1,12 +1,13 @@
 </div>
 
 ---
+<a id="unidad-2"></a>
 
----
+<div align="center">
+<h1>📗 UNIDAD 1</h1>
+<h2>Fundamentos de Algoritmos y Programación</h2>
+</div>
 
-##  — Fundamentos de Algoritmos y Programación
-
----
 
 ### 🔹 ¿Qué es un Algoritmo?
 
@@ -39,6 +40,7 @@ de escribir código real. Lo usamos en **PSeInt** que es
 el programa que vimos en clase.
 
 **Ejemplo — Calcular el promedio de 3 notas:**
+
 <img width="300" height="327" alt="image" src="https://github.com/user-attachments/assets/c37b87cb-eaad-42d9-b11b-07eccd8df81d" />
 
 ---
@@ -59,6 +61,7 @@ fue identificar cuándo usar cada figura:
 
 
 **Ejemplo**
+
 <img width="200" height="300" alt="image" src="https://github.com/user-attachments/assets/36190812-8631-4e0f-bbe0-7a5e32fa5e2a" />
 
 
