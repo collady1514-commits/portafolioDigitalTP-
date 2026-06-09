@@ -1,3 +1,5 @@
+[REGRESAR](inicio.md)
+
 ##  Declaración de Uso de IA Generativa
 
 **Herramienta utilizada:** Claude (Anthropic) — claude.ai
