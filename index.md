@@ -27,8 +27,12 @@
 
 # 🎓 PORTAFOLIO DIGITAL DE APRENDIZAJE
 
-| 🏠 Inicio | 📘 Unidad 1 | 📗 Unidad 2 | 📙 Unidad 3 | 📂 Conclusiones | 📚 Bibliografía | 🤖 Uso de IA | | 🧠 Reflexión crítica |
-|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
-| [Ir](README.md)| [Abrir](Unidad1.md) |  [Abrir](Unidad1.md) |  [Abrir](Unidad1.md) |  [Abrir](Unidad1.md) |  [Abrir](Unidad1.md) |  [Abrir](Unidad1.md) | [Abrir](Unidad1.md) |
+|         🏠 Inicio        |          📘 Unidad 1          |          📗 Unidad 2          |          📙 Unidad 3          |          📂 Conclusiones          |          📚 Bibliografía          |         🤖 Uso de IA        |      🧠 Reflexión crítica      |
+| :----------------------: | :---------------------------: | :---------------------------: | :---------------------------: | :-------------------------------: | :-------------------------------: | :-------------------------: | :----------------------------: |
+| [Ir](README.md) | [Abir](README.md) | [Abrir](README.md)| [Abrir](README.md) | [Abrir](README.md)| [Abrir](README.md)| <[Abrir](README.md) | [Abrir](README.md) |
+
+</div>
+
+---
 
 </div>
