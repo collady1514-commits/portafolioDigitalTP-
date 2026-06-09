@@ -8,10 +8,6 @@
 
 <h2>Estructuras Condicionales y Repetitivas</h2>
 
-<img src="https://img.shields.io/badge/Condicionales-Decisiones-blue?style=for-the-badge">
-<img src="https://img.shields.io/badge/Repetitivas-Bucles-success?style=for-the-badge">
-<img src="https://img.shields.io/badge/Lenguaje_C-Práctica-orange?style=for-the-badge">
-
 </div>
 
 <hr>
