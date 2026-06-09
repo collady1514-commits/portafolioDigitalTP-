@@ -3,7 +3,7 @@
 ---
 <a id="unidad-2"></a>
 
- [REGRESAR](index.md)
+ [REGRESAR](inicio.md)
 
 <div align="center">
 <h1>📗 UNIDAD 1</h1>
