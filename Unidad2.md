@@ -100,7 +100,7 @@ En ocaciones se necesita que el conjunto se jecuten al**menos una vez** cual sea
 <p align="center">
 <img width="126" height="63" alt="image" src="https://github.com/user-attachments/assets/bad0b21a-18df-42cd-b57d-8d791768b80c" />
 
-**Para (For)**
+**Para (for)**
 
 Estructura algorítmica adecuada para utilizar en un bucle que se ejecutará un número definido de veces, es decir, se conoce de antemano la cantidad de iteraciones.Consta de 3 partes:
 
@@ -145,6 +145,7 @@ El programa debe utilizar un ciclo for para solicitar la cantidad disponible de 
 
 <h4 align="center">Diagrama de flujo</h4>
 <p align="center">
+<img width="2564" height="4564" alt="image" src="https://github.com/user-attachments/assets/e5f9bbfc-148b-4ca9-8658-65135461824c" />
 
 
 
@@ -154,7 +155,7 @@ El programa debe utilizar un ciclo for para solicitar la cantidad disponible de 
            
 <img width="491" height="397" alt="image" src="https://github.com/user-attachments/assets/1d3e600b-a7b8-49e7-8989-212fe6abe8be" />
 
-<li>Prueba de escritorio</li>
+**Prueba de escritorio**
 
 | Iteración (i) | Unidades ingresadas | ¿unidades < 5? | Salida |
 |--------------|-------------------|---------------|---------|
@@ -164,7 +165,9 @@ El programa debe utilizar un ciclo for para solicitar la cantidad disponible de 
 </ul>
 <img width="334" height="182" alt="image" src="https://github.com/user-attachments/assets/0c06812a-2267-42f0-8efd-80af1d606046" />
 
-<li>Dificultades encontradas</li>
+**Dificultades encontradas**
+
+Al principio, una de mis principales dificultades era identificar qué estructura utilizar: las condicionales o las repetitivas. Con la práctica he aprendido a diferenciarlas y a reconocer cuándo corresponde usar cada una. Aunque todavía me cuesta en algunas ocasiones, continúo aprendiendo y mejorando. Solo debo analizar el problema y determinar cuál estructura es la más adecuada.
 
 </ul>
 
