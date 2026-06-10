@@ -73,7 +73,7 @@ Estructura de selección múltiple que compara una variable con diferentes valor
 <p align="center">
 <img width="209" height="308" alt="image" src="https://github.com/user-attachments/assets/e06de8f8-9af5-4fb4-a197-e4328af65473" />
 
-
+</div>
 <h3>📌 Estructuras Repetitivas</h3>
 
 **Mientras (While)**
@@ -119,6 +119,9 @@ El **incremento** **(o decremento)** en el contador de iteraciones. También lla
 <img width="245" height="86" alt="image" src="https://github.com/user-attachments/assets/b5228f16-89ee-49c5-89e6-890ed222e824" />
 
 
+</div>
+
+<hr>
 </ul>
 
 <h3>📌 Ejercicio Integrador</h3>
@@ -132,11 +135,7 @@ El programa debe utilizar un ciclo for para solicitar la cantidad disponible de 
 
 **Análisis del problema**
 
-| Componente | Descripción | Variables / Datos |
-| :--- | :--- | :--- |
-| **Entradas** | Cantidad de unidades de cada producto (se repite para cada artículo del lote). | `unidades` (Entero) |
-| **Procesos** | 1. Controlar un ciclo `for` de 3 iteraciones (para los 3 productos).<br>2. En cada vuelta, leer la cantidad de existencias.<br>3. Evaluar mediante un `if-else` si el stock es menor al mínimo permitido (5 unidades). | Ciclo: `i` (desde 1 hasta 3)<br>Condición: `unidades < 5` |
-| **Salidas** | Mensaje de estado en pantalla según el resultado de la evaluación. | `[¡ALERTA!]` o `[OK]` |
+
 
 
 <h4 align="center">Diagrama de flujo</h4>
