@@ -101,6 +101,7 @@ En ocaciones se necesita que el conjunto se jecuten al**menos una vez** cual sea
 <img width="126" height="63" alt="image" src="https://github.com/user-attachments/assets/bad0b21a-18df-42cd-b57d-8d791768b80c" />
 
 **Para (For)**
+
 Estructura algorítmica adecuada para utilizar en un bucle que se ejecutará un número definido de veces, es decir, se conoce de antemano la cantidad de iteraciones.Consta de 3 partes:
 
 **La inicialización** del contador de iteraciones, con el valor inicial del bucle.
@@ -109,6 +110,13 @@ El **incremento** **(o decremento)** en el contador de iteraciones. También lla
 
 <h4 align="center">Diagrama de flujo</h4>
 <p align="center">
+<img width="274" height="163" alt="image" src="https://github.com/user-attachments/assets/3d911e7f-8d8d-49ab-9026-1c5a9fe6c255" />
+
+
+
+<h4 align="center">Pseudocodico</h4>
+<p align="center">
+<img width="245" height="86" alt="image" src="https://github.com/user-attachments/assets/b5228f16-89ee-49c5-89e6-890ed222e824" />
 
 
 </ul>
