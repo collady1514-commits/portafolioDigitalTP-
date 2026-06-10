@@ -76,9 +76,6 @@ Estructura de selección múltiple que compara una variable con diferentes valor
 
 <h3>📌 Estructuras Repetitivas</h3>
 
-
-**Para (For)**
-
 **Mientras (While)**
 
 Permite repetir un número de lineas de código **mientras** se cumpla una determinada condición.
@@ -97,6 +94,22 @@ En ocaciones se necesita que el conjunto se jecuten al**menos una vez** cual sea
 
 <h4 align="center">Diagrama de flujo</h4>
 <p align="center">
+<img width="214" height="155" alt="image" src="https://github.com/user-attachments/assets/b607d814-ffe2-4779-99cd-7d2bd485d03b" />
+
+<h4 align="center">Pseudocodico</h4>
+<p align="center">
+<img width="126" height="63" alt="image" src="https://github.com/user-attachments/assets/bad0b21a-18df-42cd-b57d-8d791768b80c" />
+
+**Para (For)**
+Estructura algorítmica adecuada para utilizar en un bucle que se ejecutará un número definido de veces, es decir, se conoce de antemano la cantidad de iteraciones.Consta de 3 partes:
+
+**La inicialización** del contador de iteraciones, con el valor inicial del bucle.
+Una **condición** (en función del contador), que limita el número de iteraciones que tendrá el bucle.
+El **incremento** **(o decremento)** en el contador de iteraciones. También llamado Paso.
+
+<h4 align="center">Diagrama de flujo</h4>
+<p align="center">
+
 
 </ul>
 
