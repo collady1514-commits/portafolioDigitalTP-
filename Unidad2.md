@@ -133,8 +133,13 @@ El encargado de una tienda de tecnología necesita revisar el inventario de un l
 
 El programa debe utilizar un ciclo for para solicitar la cantidad disponible de cada uno de los 3 productos. Si un producto tiene menos de 5 unidades en existencia, la estructura condicional debe mostrar un mensaje de alerta indicando: "¡ALERTA: Reordenar producto!". Si tiene 5 o más unidades, indicará: "Stock seguro".
 
-**Análisis del problema**
+**🔍 Análisis del problema**
 
+| Elemento | Detalle |
+|----------|---------|
+| **Entradas** | Unidades disponibles de los productos. |
+| **Proceso** | Comparar si las unidades son menores a 5 mediante una estructura `if-else` dentro de un ciclo `for`. |
+| **Salida** | Mensaje de alerta o mensaje de stock seguro para cada producto. |
 
 
 
@@ -143,37 +148,13 @@ El programa debe utilizar un ciclo for para solicitar la cantidad disponible de 
 
 
 
-<li>Codificación en C</li>
-#include <stdio.h>
 
-int main() {
-    // Declaracion de variables
-    int i;
-    int unidades;
+<h4 align="center">Codificación en C</h4>
+<p align="center">
+           
+<img width="491" height="397" alt="image" src="https://github.com/user-attachments/assets/1d3e600b-a7b8-49e7-8989-212fe6abe8be" />
 
-    printf("=== REVISION AUTOMATICA DE INVENTARIO ===\n\n");
-
-    // Ciclo FOR: Se repite exactamente 3 veces (para 3 productos)
-    for (i = 1; i <= 3; i++) {
-        printf("Ingrese las unidades disponibles del producto %d: ", i);
-        scanf("%d", &unidades);
-
-        // Estructura condicional doble (If-Else)
-        if (unidades < 5) {
-            printf("  -> [¡ALERTA!]: Unidades bajas. ¡Reordenar producto ya!\n\n");
-        } else {
-            printf("  -> [OK]: Stock seguro. Cantidad suficiente.\n\n");
-        }
-    }
-
-    printf("-----------------------------------------\n");
-    printf("Proceso finalizado. Inventario revisado.\n");
-    printf("-----------------------------------------\n");
-
-    return 0;
-}
 <li>Prueba de escritorio</li>
-## Prueba de Escritorio
 
 | Iteración (i) | Unidades ingresadas | ¿unidades < 5? | Salida |
 |--------------|-------------------|---------------|---------|
@@ -181,9 +162,10 @@ int main() {
 | 2 | 8 | No | OK: Stock seguro. Cantidad suficiente. |
 | 3 | 2 | Sí | ALERTA: Unidades bajas. ¡Reordenar producto ya! |
 </ul>
+<img width="334" height="182" alt="image" src="https://github.com/user-attachments/assets/0c06812a-2267-42f0-8efd-80af1d606046" />
 
 <li>Dificultades encontradas</li>
-<li>Aprendizajes obtenidos</li>
+
 </ul>
 
 <hr>
