@@ -145,7 +145,7 @@ El programa debe utilizar un ciclo for para solicitar la cantidad disponible de 
 
 <h4 align="center">Diagrama de flujo</h4>
 <p align="center">
-<img width="2564" height="4564" alt="image" src="https://github.com/user-attachments/assets/e5f9bbfc-148b-4ca9-8658-65135461824c" />
+<img width="604" height="904" alt="image" src="https://github.com/user-attachments/assets/e5f9bbfc-148b-4ca9-8658-65135461824c" />
 
 
 
@@ -163,7 +163,8 @@ El programa debe utilizar un ciclo for para solicitar la cantidad disponible de 
 | 2 | 8 | No | OK: Stock seguro. Cantidad suficiente. |
 | 3 | 2 | Sí | ALERTA: Unidades bajas. ¡Reordenar producto ya! |
 </ul>
-<img width="334" height="182" alt="image" src="https://github.com/user-attachments/assets/0c06812a-2267-42f0-8efd-80af1d606046" />
+
+   <img width="334" height="182" alt="image" src="https://github.com/user-attachments/assets/0c06812a-2267-42f0-8efd-80af1d606046" />
 
 **Dificultades encontradas**
 
