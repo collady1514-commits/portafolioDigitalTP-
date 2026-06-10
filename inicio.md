@@ -10,16 +10,13 @@
 ## CARRERA DE COMPUTACIÓN
 ## ASIGNATURA
 ### Teoria de la programación
-## UNIDAD
-### Aprendizaje Autónomo Actividad Nro. 1
 ## TÍTULO
 ### Portafolio Digital de Aprendizaje
 ## DOCENTE
 ### Lisette Geoconda López Faicán 
 ## ESTUDIANTE
 ### Ladi Anahí Guamán Arteaga
-## FECHA DE ENTREGA
-### Lunes, 4 de mayo de 2026
+
 ---
 </div>
 
