@@ -2,21 +2,13 @@
 
 ##  Declaración de Uso de IA Generativa
 
-**Herramienta utilizada:** Claude (Anthropic) — claude.ai
+**Herramientas utilizadas:** Claude (Anthropic) y ChatGPT (OpenAI)
 
-Durante la elaboración de este portafolio utilicé 
-inteligencia artificial como tutor de acompañamiento. 
+Durante la elaboración de este portafolio utilicé herramientas de inteligencia artificial como apoyo en diferentes momentos del proceso.
 
-La IA me ayudó en los siguientes aspectos:
+**Claude (Anthropic)** fue utilizado principalmente en la Unidad 1 para aprender códigos de Markdown, organizar la estructura del portafolio y mejorar la presentación de los contenidos.
 
-- Me enseñó los códigos de **Markdown** para dar 
-  formato a mi portafolio, como usar `#` para títulos, 
-  `**texto**` para negrita, cómo hacer tablas y 
-  cómo insertar imágenes con `<img src="">`.
+**ChatGPT (OpenAI)** fue utilizado principalmente en la Unidad 2 para mejorar la redacción de los contenidos teóricos, corregir aspectos de escritura.
 
-- Me **guió en la estructura** del portafolio para 
-  que cumpla con lo que pide la actividad.
+Estas herramientas sirvieron como apoyo y orientación durante el desarrollo del portafolio. Sin embargo, las actividades, evidencias y reflexiones presentadas reflejan mi propio proceso de aprendizaje y los conocimientos adquiridos en clase.
 
-- Me ayudó con la **redacción** de los contenidos 
-  teóricos, aunque siempre con mis propias ideas 
-  y lo que entendí en clase.
