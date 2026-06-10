@@ -1,12 +1,14 @@
+<a id="inicio"></a>
 [REGRESAR](inicio.md)
 
 
-<a id="inicio"></a>
+
 
 
 ### Reflexión crítica
 
 **Unidad 1**
+
 Esta unidad me enseñó que programar requiere mucha 
 **atención al detalle**. Un simple `%f` en lugar 
 de `%d` puede hacer que el programa no funcione.
