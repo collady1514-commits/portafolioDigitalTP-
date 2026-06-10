@@ -81,26 +81,47 @@ Estructura de selección múltiple que compara una variable con diferentes valor
 
 **Mientras (While)**
 
+Permite repetir un número de lineas de código **mientras** se cumpla una determinada condición.
+
+<h4 align="center">Diagrama de flujo</h4>
+<p align="center">
+<img width="222" height="151" alt="image" src="https://github.com/user-attachments/assets/60151f6a-b652-4017-804e-4bc7c28d25ef" />
+
+<h4 align="center">Pseudocodico</h4>
+<p align="center">
+<img width="137" height="81" alt="image" src="https://github.com/user-attachments/assets/224baf68-3379-47e0-9edd-26d862272424" />
+
 **Repetir Hasta Que (Do While)**
+
+En ocaciones se necesita que el conjunto se jecuten al**menos una vez** cual sea el valor de la expresi+on o condición evaluada.
+
+<h4 align="center">Diagrama de flujo</h4>
+<p align="center">
+
 </ul>
 
 <h3>📌 Ejercicio Integrador</h3>
 <ul>
+           
 **Planteamiento del problema**
+           
 El encargado de una tienda de tecnología necesita revisar el inventario de un lote de 3 productos diferentes (por ejemplo: Laptops, Mouse y Teclados) para saber cuáles necesitan una compra urgente.
 
 El programa debe utilizar un ciclo for para solicitar la cantidad disponible de cada uno de los 3 productos. Si un producto tiene menos de 5 unidades en existencia, la estructura condicional debe mostrar un mensaje de alerta indicando: "¡ALERTA: Reordenar producto!". Si tiene 5 o más unidades, indicará: "Stock seguro".
-<li>Análisis del problema</li>
-### 2. Análisis del Problema
+
+**Análisis del problema**
 
 | Componente | Descripción | Variables / Datos |
 | :--- | :--- | :--- |
 | **Entradas** | Cantidad de unidades de cada producto (se repite para cada artículo del lote). | `unidades` (Entero) |
 | **Procesos** | 1. Controlar un ciclo `for` de 3 iteraciones (para los 3 productos).<br>2. En cada vuelta, leer la cantidad de existencias.<br>3. Evaluar mediante un `if-else` si el stock es menor al mínimo permitido (5 unidades). | Ciclo: `i` (desde 1 hasta 3)<br>Condición: `unidades < 5` |
 | **Salidas** | Mensaje de estado en pantalla según el resultado de la evaluación. | `[¡ALERTA!]` o `[OK]` |
-<li>Diseño del algoritmo</li>
-<li>Diagrama de flujo</li>
-<img width="16384" height="8676" alt="image" src="https://github.com/user-attachments/assets/1ffc857d-80da-46b5-9569-9f7b8973b6b5" />
+
+
+<h4 align="center">Diagrama de flujo</h4>
+<p align="center">
+
+
 
 <li>Codificación en C</li>
 #include <stdio.h>
