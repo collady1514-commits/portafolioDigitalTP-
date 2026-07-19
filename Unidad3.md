@@ -5,11 +5,14 @@
 <a id="unidad-3"></a>
 
  [REGRESAR](inicio.md)
- 
+
+<div align="center">
+
 <h1>📗 UNIDAD 3</h1>
 
-<h2>Modularidad</h2>
+<h2>Modularidad y Arreglos</h2>
 
 </div>
 
 <hr>
+
