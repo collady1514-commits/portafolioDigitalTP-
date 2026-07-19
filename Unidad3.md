@@ -18,14 +18,21 @@
 
 </tr>
 
-# 🛠️ Modularidad en Programación
+### **🛠️ Modularidad en Programación**
 <div style="text-align: justify;">
-La <b>modularidad</b> es la capacidad de dividir un programa en partes independientes llamadas módulos (funciones o procedimientos). Cada módulo tiene una tarea única y bien definida. Esto permite reutilizar código, facilitar la depuración y hacer que el programa sea legible.
+La programación modular es una técnica de diseño de algoritmos que consiste en dividir un problema grande y complejo en subprogramas más pequeños y manejables, bajo el principio de <b>"divide y vencerás"</b>.Estos subprogramas, conocidos como módulos, procesos, funciones o rutinas, permiten reducir la complejidad del programa original.
 </div>
 
----
+### Función
+Es un conjunto de sentencias que realiza una tarea específica con un propósito único e identificable.Las funciones no pueden ejecutarse solas; deben estar integradas en un programa principal (como el main) y pueden llamar a otras funciones entre sí.
+<div align="center">
+<img width="535" height="134" alt="image" src="https://github.com/user-attachments/assets/c7ec00a0-6ccd-456b-9e13-276b03e7a1bb" />
 
-## 🔁 Paso de Parámetros
+
+ 
+**Partes de una Función:** 
+Consta de una cabecera (donde se define el tipo de dato de retorno, el nombre y la lista de parámetros) y un cuerpo (sentencias entre llaves y el valor de retorno).
+### 🔁 Paso de Parámetros
 
 Al trabajar con funciones, la forma en que pasamos los datos (parámetros) cambia por completo el comportamiento del programa:
 
