@@ -59,7 +59,25 @@ Al trabajar con funciones, la forma en que pasamos los datos (parámetros) cambi
 Se envía una <b>copia</b> del dato a la función. Cualquier modificación dentro de la función se queda de manera local; la variable original fuera de la función no cambia.
 </div>
 
+#### Ejemplo
+<img width="629" height="315" alt="image" src="https://github.com/user-attachments/assets/3cbc1215-e067-44c4-858c-a06c4c99ad22" />
+
+
+#### Resultado
+<img width="413" height="91" alt="image" src="https://github.com/user-attachments/assets/ed2d1f93-c394-4723-80f8-2d6581fec55a" />
+
+
+
 #### 🔗 Paso por referencia
 <div style="text-align: justify;">
 Se envía la <b>dirección de memoria</b> de la variable original. Si la función modifica el parámetro, el cambio afecta directamente y en tiempo real a la variable original.
 </div>
+
+#### Ejemplo
+<img width="555" height="326" alt="image" src="https://github.com/user-attachments/assets/57915dce-ed15-4ce3-9ca4-13a076535610" />
+
+#### Resultado
+<img width="344" height="77" alt="image" src="https://github.com/user-attachments/assets/9a5f840f-2c09-4a2f-8076-5b1890376e3c" />
+
+
+
