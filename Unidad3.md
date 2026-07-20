@@ -79,5 +79,63 @@ Se envía la <b>dirección de memoria</b> de la variable original. Si la funció
 #### Resultado
 <img width="344" height="77" alt="image" src="https://github.com/user-attachments/assets/9a5f840f-2c09-4a2f-8076-5b1890376e3c" />
 
+### 📦Arreglos 
+
+<div style="text-align: justify;">
+Un <b>arreglo</b> es una estructura de datos estática que almacena una colección de elementos del <b>mismo tipo</b> (homogéneos) bajo un solo nombre. Todos los elementos se guardan en posiciones de memoria contiguas. Al ser estáticos, su tamaño debe definirse al momento de compilar y no puede cambiar durante la ejecución del programa. El acceso a cada casilla se realiza de manera directa utilizando <b>índices</b> que inician siempre en la posición <code>0</code>.
+</div>
+
+---
+
+#### 🔹Arreglos Unidimensionales (Vectores)
+
+<div style="text-align: justify;">
+Tienen una sola dimensión. Imagínalo como una fila ordenada de casilleros. Este programa interactivo solicita al usuario ingresar las calificaciones de un estudiante para guardarlas en un vector y luego calcular su promedio.
+</div>
+
+#### Ejemplo
+<img width="404" height="385" alt="image" src="https://github.com/user-attachments/assets/d7570c38-6b65-4e36-94a6-02682d2684c8" />
+
+#### Resultado
+<img width="359" height="119" alt="image" src="https://github.com/user-attachments/assets/26742e30-2dc2-4a1b-a94a-aceded684315" />
+
+---
+#### 🔹 Arreglo Bidimensional (2D)
+<div style="text-align: justify;">
+Un arreglo <b>bidimensional</b> es una estructura de datos estática que organiza la información en dos dimensiones principales de forma simultánea: <b>filas (horizontales) y columnas (verticales)</b>. Matemáticamente se comporta como una matriz o una cuadrícula bidimensional. Para localizar, almacenar o modificar cualquier dato dentro de esta estructura, el programa requiere obligatoriamente de dos índices de control independientes, representados comúnmente con la sintaxis <code>[índice_fila][índice_columna]</code>.
+</div>
+
+#### Ejemplo
+<img width="535" height="434" alt="image" src="https://github.com/user-attachments/assets/d1c56550-5ee9-4cc2-93b7-a9ed53c077e4" />
+
+#### Resultado
+<img width="335" height="173" alt="image" src="https://github.com/user-attachments/assets/c2762649-80c3-4a09-8462-7b759ced8fe1" />
+
+
+
+#### 🔹 Arreglo Tridimensional / Multidimensional (3D)
+<div style="text-align: justify;">
+Un arreglo <b>tridimensional</b> es una estructura que añade una tercera capa de profundidad a la organización de los datos. Conceptualmente, se puede visualizar como un <b>hipercubo, un sólido geométrico o un bloque compuesto por múltiples matrices superpuestas</b>. Para gestionar la información en este espacio, el sistema requiere de tres coordenadas o índices de control independientes: el primero define la capa o plano de profundidad, el segundo especifica la fila y el tercero determina la columna, estructurándose bajo la sintaxis <code>[capa][fila][columna]</code>.
+</div>
+
+#### Ejemplo
+<img width="684" height="389" alt="image" src="https://github.com/user-attachments/assets/30ff9aeb-5bd6-4879-98e4-ea8d69ff4366" />
+<img width="684" height="82" alt="image" src="https://github.com/user-attachments/assets/0dc18a04-0763-431e-b0d7-30ea26ff51ed" />
+
+
+#### Resultado
+<img width="338" height="222" alt="image" src="https://github.com/user-attachments/assets/cb2030a4-2be7-4d74-bc6a-ec8c38231d01" />
+
+----
+
+### 🧠 3. Principales Dificultades
+
+#### ⚠️ Dificultades Técnicas en la Aplicación
+<div style="text-align: justify;">
+Durante el desarrollo práctico de los contenidos de esta unidad, la principal dificultad se presentó específicamente en la <b>modularidad al momento de realizar la codificación</b>. Estructurar correctamente la lógica del programa para dividirlo en funciones independientes y coordinar de forma exacta el traspaso de información mediante parámetros (por valor y por referencia) representó el desafío técnico más complejo durante la escritura del código.
+</div>
+
+---
+
 
 
