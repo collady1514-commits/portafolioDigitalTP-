@@ -10,5 +10,8 @@ Durante la elaboración de este portafolio utilicé herramientas de inteligencia
 
 **ChatGPT (OpenAI)** fue utilizado principalmente en la Unidad 2 para mejorar la redacción de los contenidos teóricos, corregir aspectos de escritura.
 
+**ChatGPT (OpenAI)** fue utilizado principalmente en la Unidad 3 para mejorar la redacción de los contenidos teóricos, corregir aspectos de escritura.
+
+
 Estas herramientas sirvieron como apoyo y orientación durante el desarrollo del portafolio. Sin embargo, las actividades, evidencias y reflexiones presentadas reflejan mi propio proceso de aprendizaje y los conocimientos adquiridos en clase.
 
